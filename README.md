@@ -7,6 +7,8 @@ An AI-assisted Virtual Village Clinic platform designed for trained village heal
 
 ---
 
+
+
 ## 🌟 Key Features
 
 - **🎙️ Multilingual Speech Input with Auto-Language Detection**: Spoken symptoms in Hindi, Tamil, Telugu, Marathi, Bengali, or English are transcribed and converted into structured medical data automatically powered by Groq Whisper AI.
